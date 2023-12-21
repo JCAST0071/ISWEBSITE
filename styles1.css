@@ -1,0 +1,42 @@
+body{text-align: center;}
+
+h1.title {
+    font-family:cursive; 
+    color: #3d3d3d;
+    text-align: center; 
+    font-size: 2.5em; 
+    margin-bottom: 40px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+h2.headmid {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #333;
+    font-weight: bold;
+}
+
+h3.headmide {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.desctext {
+    font-family:Verdana, cursive; /* Choose a fancy font from Google Fonts or another source */
+    font-size:small;
+    color: #000000; /* Coral color, you can change this to your preferred color */
+    text-align: center;
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: 4px; /* Adjust letter spacing for emphasis */
+    margin: 35px 0;
+    font-weight:900;
+}
+
+.navi {
+    font-family:monospace;
+    font-size: 16;
+    color: #333;
+}
